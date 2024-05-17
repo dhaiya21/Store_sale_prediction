@@ -13,7 +13,7 @@ learning algorithms that’s best fit for the above case.
 Results: we have to build a solution that should able to predict the sales of the 
 different stores  according to the provided dataset.
 Dataset:
-Dataset Link: -kaggle datasets download -d brijbhushannanda1979/bigmart-sales-data
+Dataset Link: [-kaggle datasets download -d brijbhushannanda1979/bigmart-sales-data](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data)
 We have train (8523) and test (5681) data set, train data set has both input and output
 variable(s). We need to predict the sales for test data set. 
 
