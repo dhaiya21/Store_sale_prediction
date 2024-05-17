@@ -16,7 +16,7 @@ different stores  according to the provided dataset.
 Dataset:
 Dataset Link: [-kaggle datasets download -d brijbhushannanda1979/bigmart-sales-data](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data)
 
-We have train (8523) and test (5681) data set, train data set has both input and output variable(s). We need to predict the sales for test data set. 
+We have train (8523) data set, train data set has both input and output variable(s). We need to predict the sales for test data set. 
 
 Dataset Description -
 Item_Identifier: Unique product ID
